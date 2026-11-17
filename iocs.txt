@@ -1,0 +1,22 @@
+# Indicators of Compromise (IOCs) — synthetic sample only
+# All addresses, domains and IPs below are FAKE / TEST-NET, for training only.
+# Do NOT block these in production — they are examples, not real threats.
+
+## Sender
+security-alert@micros0ft-support.net
+
+## Reply-To
+verify@micros0ft-support.net
+
+## Malicious domains
+micros0ft-support.net
+
+## Malicious URLs
+http://micros0ft-support.net/verify/login.html
+
+## Attachment
+Invoice_2026.docm
+SHA-256 (example, synthetic): e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+## IPs from headers (TEST-NET, fake)
+203.0.113.45

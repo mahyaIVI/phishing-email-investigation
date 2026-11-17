@@ -1,0 +1,34 @@
+From: "Microsoft 365 Security" <security-alert@micros0ft-support.net>
+Reply-To: verify@micros0ft-support.net
+To: testuser@yourdomain.com
+Subject: URGENT: Your Microsoft 365 Account Will Be Closed in 24 Hours
+Date: Mon, 16 Nov 2026 09:12:00 +0000
+Return-Path: <security-alert@micros0ft-support.net>
+Received: from mail.micros0ft-support.net (203.0.113.45) by mx.yourdomain.com
+Authentication-Results: mx.yourdomain.com;
+  spf=fail (sender IP is 203.0.113.45);
+  dkim=fail;
+  dmarc=fail
+
+Dear Customer,
+
+We have detected unusual activity on your Microsoft 365 account.
+
+Your account will be CLOSED in 24 hours unless you verify your identity now.
+
+Click here to verify your account:
+Verify your account -> http://micros0ft-support.net/verify/login.html
+
+Please also review the attached invoice for your recent payment.
+
+If you do not act now, you will lose access to your email, files, and Teams.
+
+Thank you,
+Microsoft 365 Security Team
+
+---
+Attachment: Invoice_2026.docm (macro-enabled Word document — DO NOT OPEN)
+---
+SYNTHETIC SAMPLE ONLY — all addresses, domains and IPs are fake, for training.
+Real sender: security-alert@micros0ft-support.net (lookalike domain, micros0ft with a zero)
+Real link: http://micros0ft-support.net/verify/login.html
